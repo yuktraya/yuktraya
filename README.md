@@ -1,16 +1,29 @@
-## Hi there 👋
+# Yuktraya
 
-<!--
-**yuktraya/yuktraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yuktraya** is a Nepal-origin technology ecosystem focused on software, AI automation, WordPress tools, SaaS products and engineering-focused digital systems.
 
-Here are some ideas to get you started:
+Yuktraya is being built as a long-term parent brand for technology services, digital products, research-driven tools and future engineering systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+
+- Software development
+- Web platforms
+- WordPress and WooCommerce tools
+- AI automation
+- SaaS products
+- Business systems
+- Engineering-focused digital products
+- Future education technology, robotics and embedded systems
+
+## Current stage
+
+Yuktraya is currently in the foundation stage: brand setup, service positioning, SEO, product research, public documentation and early product planning.
+
+## Official links
+
+- Website: https://yuktraya.com
+- Instagram: https://instagram.com/yuktraya
+- Facebook: https://facebook.com/yuktraya
+- LinkedIn: https://linkedin.com/company/yuktraya
+- YouTube: https://youtube.com/@yuktraya
+- TikTok: https://tiktok.com/@yuktraya
